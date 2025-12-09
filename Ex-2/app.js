@@ -11,3 +11,5 @@ if (numero % 2 == 1) {
     alert("O teu número é par!")
 }
 
+
+
